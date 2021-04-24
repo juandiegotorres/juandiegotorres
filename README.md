@@ -24,7 +24,7 @@
 
 💲 Actualmente me encuentro comercializando un software desarrollado por mí, llamado “PractiComercio” el mismo trata de un sistema de ventas para pequeños y medianos comercios que ayuda al usuario con su productividad, números y gestión (www.jtdev.com.ar/PractiComercio).  
 
-📈 Mi proyecto a futuro es convertirme en un desarrollador web Full Stack, en lo cual estoy trabajando, capacitándome de manera autodidacta y aprendiendo JavaScript junto con el framework React además de CSS (Flexbox y Grid)
+📈 Mi proyecto a futuro es convertirme en un desarrollador web Full Stack, en lo cual estoy trabajando, capacitándome de manera autodidacta y aprendiendo JavaScript junto con React además de CSS (Flexbox y Grid)
 
 ### 🔶 Contactame:
 <ul>
