@@ -17,7 +17,6 @@
   <li>PHP / Framework Laravel</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JAVA</li>
 </ul>
 
 🎧 Algunos de mis hobbies son escuchar música 🎶, el gaming 🎮, salir con amigos 🙊 e ir al gimansio 🏋🏽‍♂️
