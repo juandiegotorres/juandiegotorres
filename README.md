@@ -1,6 +1,6 @@
 ### Hola! 👋 soy Juan pero todos me dicen Juandi
 
-🎓 <strong>Recientemente me egrese en una tecnicatura superior como programador y analista de sistemas, estoy en busca de mi primera experiencia laboral como programador y sé que algún día lo voy a conseguir. </strong>
+🎓 <strong>Recientemente me egrese en una tecnicatura superior como programador y analista de sistemas. Actualmente trabajo con tecnologías como PHP, Laravel, MySQL, HTML y CSS, Bootsrap, Vue.js, JavaScript, etc. </strong>
 
 🧠 Algunos de mis conocimientos son: 
 <ul>
