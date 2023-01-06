@@ -1,6 +1,15 @@
 ### Hola! 👋 soy Juan pero todos me dicen Juandi
 
-🎓 <strong>Recientemente me egrese en una tecnicatura superior como programador y analista de sistemas. Actualmente trabajo con tecnologías como PHP, Laravel, MySQL, HTML y CSS, Bootsrap, Vue.js, JavaScript, etc. </strong>
+🎓 <strong>PHP Ssr Developer. Técnicato superior como programador y analista de sistemas.</strong>
+
+💪🏼 Algunos de los lenguajes y herramientas que manejo:
+<ul>
+  <li>PHP - Laravel & CodeIgniter</li>
+  <li>JavaScript & jQuery</li>
+  <li>Next.js</li>
+  <li>MySQL</li>
+  <li>HTML & CSS</li>
+</ul>
 
 🧠 Algunos de mis conocimientos son: 
 <ul>
@@ -8,18 +17,8 @@
   <li>Bases de datos relacionales (diseño, normalización y lenguaje de consultas)</li>
   <li>Diagramas UML</li>
   <li>Inglés (intermedio)</li>
+  <li>Linux</li>
 </ul>
-
-💪🏼 Algunos de los lenguajes y herramientas que manejo:
-<ul>
-  <li>VB.NET / C#</li>
-  <li>MySQL</li>
-  <li>PHP / Framework Laravel</li>
-  <li>HTML</li>
-  <li>CSS</li>
-</ul>
-
-🎧 Algunos de mis hobbies son escuchar música 🎶, el gaming 🎮, salir con amigos 🙊 e ir al gimansio 🏋🏽‍♂️
 
 ### 🔶 Contactame:
 <ul>
