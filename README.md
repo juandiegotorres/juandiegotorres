@@ -1,6 +1,6 @@
 ### Hola! 👋 soy Juan pero todos me dicen Juandi
 
-🎓 <strong>PHP Ssr Developer. Técnicato superior como programador y analista de sistemas.</strong>
+🎓 <strong>PHP Ssr Developer. Técnico superior en análisis y programación de sistemas.</strong>
 
 💪🏼 Algunos de los lenguajes y herramientas que manejo:
 <ul>
