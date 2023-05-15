@@ -4,7 +4,7 @@
 
 💪🏼 Algunos de los lenguajes y herramientas que manejo:
 <ul>
-  <li>PHP - Laravel & CodeIgniter</li>
+  <li>PHP - ['Laravel', 'Symfony', 'CodeIgniter']</li>
   <li>JavaScript & jQuery</li>
   <li>Next.js</li>
   <li>MySQL</li>
